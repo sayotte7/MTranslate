@@ -1,5 +1,10 @@
 {
-    "appear": "dark",
-    "langs": "null",
-    "size": 25
+    "mode": "Dark Mode",
+    "languages": [],
+    "text_size": 40,
+    "color": "Default",
+    "default-mode": "Dark Mode",
+    "default-languages": [],
+    "default-text_size": 40,
+    "default-color": "Default"
 }
